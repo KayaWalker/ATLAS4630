@@ -1,0 +1,11 @@
+{
+  "name": "09-28",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {},
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
