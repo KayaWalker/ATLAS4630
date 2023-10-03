@@ -1,8 +1,11 @@
 {
   "name": "09-28",
   "version": "1.0.0",
-  "main": "script.js",
-  "scripts": {},
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=development",
+    "serve": "http-server"
+  },
   "license": "MIT",
   "dependencies": {
     "webpack": "^5.88.2",
